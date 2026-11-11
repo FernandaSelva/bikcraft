@@ -10,7 +10,7 @@
   margin-bottom: 4px;
 }
 
-.form.col-2{
+.form .col-2{
   grid-column: span 2;
 }
 
@@ -26,7 +26,7 @@
   box-sizing: border-box;
 }
 
-.form .form input[type="text"]:focus,
+.form input[type="text"]:focus,
 .form input[type="email"]:focus,
 .form textarea:focus{
   outline: none;
